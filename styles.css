@@ -6,5 +6,9 @@ h1 {
 .container {
   padding: 20px 30px 20px 30px;
   background-color: red;
+  width: 70%;
 }
 
+span {
+  font-family: 'Courier New', Courier, monospace;
+}
