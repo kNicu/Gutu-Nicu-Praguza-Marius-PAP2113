@@ -12,3 +12,8 @@ h1 {
 span {
   font-family: 'Courier New', Courier, monospace;
 }
+
+body {
+  background-color: blue;
+  font-weight: 600;
+}
